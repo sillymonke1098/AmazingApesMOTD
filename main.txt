@@ -1,4 +1,5 @@
-v1.00:
-Game is now out. Go wild!!!
+v1.1.0:
+The apes dug out a weird dome. They wonder what it could be....
+Gravity may be unstable in there. Watch out!
 
 Join the Discord @ https://discord.gg/eDhW4yCTjh
